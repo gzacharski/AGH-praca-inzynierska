@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/AGH-praca-inzynierska/static/js/main.7b9561a3.chunk.js",
+    "main.js.map": "/AGH-praca-inzynierska/static/js/main.7b9561a3.chunk.js.map",
+    "runtime-main.js": "/AGH-praca-inzynierska/static/js/runtime-main.a0e5259d.js",
+    "runtime-main.js.map": "/AGH-praca-inzynierska/static/js/runtime-main.a0e5259d.js.map",
+    "static/js/2.305e39a6.chunk.js": "/AGH-praca-inzynierska/static/js/2.305e39a6.chunk.js",
+    "static/js/2.305e39a6.chunk.js.map": "/AGH-praca-inzynierska/static/js/2.305e39a6.chunk.js.map",
+    "static/js/3.3e9726eb.chunk.js": "/AGH-praca-inzynierska/static/js/3.3e9726eb.chunk.js",
+    "static/js/3.3e9726eb.chunk.js.map": "/AGH-praca-inzynierska/static/js/3.3e9726eb.chunk.js.map",
+    "index.html": "/AGH-praca-inzynierska/index.html",
+    "static/js/2.305e39a6.chunk.js.LICENSE.txt": "/AGH-praca-inzynierska/static/js/2.305e39a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e5259d.js",
+    "static/js/2.305e39a6.chunk.js",
+    "static/js/main.7b9561a3.chunk.js"
+  ]
+}
