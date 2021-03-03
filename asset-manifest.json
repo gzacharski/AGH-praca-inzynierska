@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/AGH-praca-inzynierska/static/js/main.d34fac6d.chunk.js",
-    "main.js.map": "/AGH-praca-inzynierska/static/js/main.d34fac6d.chunk.js.map",
+    "main.js": "/AGH-praca-inzynierska/static/js/main.b181810d.chunk.js",
+    "main.js.map": "/AGH-praca-inzynierska/static/js/main.b181810d.chunk.js.map",
     "runtime-main.js": "/AGH-praca-inzynierska/static/js/runtime-main.a52f4402.js",
     "runtime-main.js.map": "/AGH-praca-inzynierska/static/js/runtime-main.a52f4402.js.map",
     "static/js/2.a4bb8c2f.chunk.js": "/AGH-praca-inzynierska/static/js/2.a4bb8c2f.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.a52f4402.js",
     "static/js/2.a4bb8c2f.chunk.js",
-    "static/js/main.d34fac6d.chunk.js"
+    "static/js/main.b181810d.chunk.js"
   ]
 }
